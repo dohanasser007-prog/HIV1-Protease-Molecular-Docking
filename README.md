@@ -44,12 +44,15 @@ AutoDock Vina predicted the top 9 binding modes centered on the catalytic `Asp25
 Comparison of the predicted binding pose against the experimentally resolved crystal structure:
 
 <p align="center">
-  <img src="results_superposition.png" alt="Docking Pose vs Crystal Structure" width="700">
+  <img src="results_superposition.png.jpeg" alt="Docking Pose vs Crystal Structure" width="700">
 </p>
 
-* **Receptor (HIV-1 Protease):** Cartoon representation (spectrum).
-* **Vina Predicted Pose 1:** <span style="color:#00FF00">**Green sticks**</span>.
-* **Experimental Crystal Ligand (Ground Truth):** <span style="color:#FF00FF">**Magenta sticks**</span>.
+* **Predicted Pose 1 (AutoDock Vina):** <span style="color:#00FF00">**Green sticks**</span>
+* **Experimental Crystal Structure (PDB: 1HSG):** <span style="color:#FF00FF">**Magenta sticks**</span>
+* **Heteroatoms:** Oxygen (<span style="color:#FF0000">Red</span>) and Nitrogen (<span style="color:#6495ED">Blue</span>)
+* **Receptor:** HIV-1 Protease binding pocket shown in the background (dimmed cartoon).
+
+> **Observation:** Near-perfect alignment of the core scaffold, central transition-state mimic hydroxyl, and hydrophobic aromatic rings, confirming the **0.66 Å** heavy-atom RMSD.
 
 ---
 
