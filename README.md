@@ -14,7 +14,7 @@ An end-to-end, reproducible Google Colab tutorial for molecular docking and re-d
 ## 🚀 How to Run
 Click the badge below to run the notebook directly in Google Colab:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_NOTEBOOK_LINK_HERE)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dohanasser007-prog/HIV1-Protease-Molecular-Docking/blob/main/HIV1Protease_Docking.ipynb)
 
 ## 📄 License
 This project is licensed under the MIT License.
